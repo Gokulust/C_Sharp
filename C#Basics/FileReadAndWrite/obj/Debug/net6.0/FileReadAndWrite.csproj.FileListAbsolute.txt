@@ -1,0 +1,16 @@
+C:\Users\249214\source\repos\C#Basics\FileReadAndWrite\bin\Debug\net6.0\FileReadAndWrite.exe
+C:\Users\249214\source\repos\C#Basics\FileReadAndWrite\bin\Debug\net6.0\TextFile.txt
+C:\Users\249214\source\repos\C#Basics\FileReadAndWrite\bin\Debug\net6.0\FileReadAndWrite.deps.json
+C:\Users\249214\source\repos\C#Basics\FileReadAndWrite\bin\Debug\net6.0\FileReadAndWrite.runtimeconfig.json
+C:\Users\249214\source\repos\C#Basics\FileReadAndWrite\bin\Debug\net6.0\FileReadAndWrite.dll
+C:\Users\249214\source\repos\C#Basics\FileReadAndWrite\bin\Debug\net6.0\FileReadAndWrite.pdb
+C:\Users\249214\source\repos\C#Basics\FileReadAndWrite\obj\Debug\net6.0\FileReadAndWrite.csproj.AssemblyReference.cache
+C:\Users\249214\source\repos\C#Basics\FileReadAndWrite\obj\Debug\net6.0\FileReadAndWrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249214\source\repos\C#Basics\FileReadAndWrite\obj\Debug\net6.0\FileReadAndWrite.AssemblyInfoInputs.cache
+C:\Users\249214\source\repos\C#Basics\FileReadAndWrite\obj\Debug\net6.0\FileReadAndWrite.AssemblyInfo.cs
+C:\Users\249214\source\repos\C#Basics\FileReadAndWrite\obj\Debug\net6.0\FileReadAndWrite.csproj.CoreCompileInputs.cache
+C:\Users\249214\source\repos\C#Basics\FileReadAndWrite\obj\Debug\net6.0\FileReadAndWrite.dll
+C:\Users\249214\source\repos\C#Basics\FileReadAndWrite\obj\Debug\net6.0\refint\FileReadAndWrite.dll
+C:\Users\249214\source\repos\C#Basics\FileReadAndWrite\obj\Debug\net6.0\FileReadAndWrite.pdb
+C:\Users\249214\source\repos\C#Basics\FileReadAndWrite\obj\Debug\net6.0\FileReadAndWrite.genruntimeconfig.cache
+C:\Users\249214\source\repos\C#Basics\FileReadAndWrite\obj\Debug\net6.0\ref\FileReadAndWrite.dll

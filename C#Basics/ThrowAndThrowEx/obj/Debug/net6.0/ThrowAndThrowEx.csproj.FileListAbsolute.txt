@@ -1,0 +1,15 @@
+C:\Users\249214\source\repos\C#Basics\ThrowAndThrowEx\bin\Debug\net6.0\ThrowAndThrowEx.exe
+C:\Users\249214\source\repos\C#Basics\ThrowAndThrowEx\bin\Debug\net6.0\ThrowAndThrowEx.deps.json
+C:\Users\249214\source\repos\C#Basics\ThrowAndThrowEx\bin\Debug\net6.0\ThrowAndThrowEx.runtimeconfig.json
+C:\Users\249214\source\repos\C#Basics\ThrowAndThrowEx\bin\Debug\net6.0\ThrowAndThrowEx.dll
+C:\Users\249214\source\repos\C#Basics\ThrowAndThrowEx\bin\Debug\net6.0\ThrowAndThrowEx.pdb
+C:\Users\249214\source\repos\C#Basics\ThrowAndThrowEx\obj\Debug\net6.0\ThrowAndThrowEx.csproj.AssemblyReference.cache
+C:\Users\249214\source\repos\C#Basics\ThrowAndThrowEx\obj\Debug\net6.0\ThrowAndThrowEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249214\source\repos\C#Basics\ThrowAndThrowEx\obj\Debug\net6.0\ThrowAndThrowEx.AssemblyInfoInputs.cache
+C:\Users\249214\source\repos\C#Basics\ThrowAndThrowEx\obj\Debug\net6.0\ThrowAndThrowEx.AssemblyInfo.cs
+C:\Users\249214\source\repos\C#Basics\ThrowAndThrowEx\obj\Debug\net6.0\ThrowAndThrowEx.csproj.CoreCompileInputs.cache
+C:\Users\249214\source\repos\C#Basics\ThrowAndThrowEx\obj\Debug\net6.0\ThrowAndThrowEx.dll
+C:\Users\249214\source\repos\C#Basics\ThrowAndThrowEx\obj\Debug\net6.0\refint\ThrowAndThrowEx.dll
+C:\Users\249214\source\repos\C#Basics\ThrowAndThrowEx\obj\Debug\net6.0\ThrowAndThrowEx.pdb
+C:\Users\249214\source\repos\C#Basics\ThrowAndThrowEx\obj\Debug\net6.0\ThrowAndThrowEx.genruntimeconfig.cache
+C:\Users\249214\source\repos\C#Basics\ThrowAndThrowEx\obj\Debug\net6.0\ref\ThrowAndThrowEx.dll

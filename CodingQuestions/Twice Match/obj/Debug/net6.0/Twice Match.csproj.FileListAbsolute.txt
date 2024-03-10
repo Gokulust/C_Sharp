@@ -1,0 +1,15 @@
+C:\Users\249214\source\repos\CodingQuestions\Twice Match\bin\Debug\net6.0\Twice Match.exe
+C:\Users\249214\source\repos\CodingQuestions\Twice Match\bin\Debug\net6.0\Twice Match.deps.json
+C:\Users\249214\source\repos\CodingQuestions\Twice Match\bin\Debug\net6.0\Twice Match.runtimeconfig.json
+C:\Users\249214\source\repos\CodingQuestions\Twice Match\bin\Debug\net6.0\Twice Match.dll
+C:\Users\249214\source\repos\CodingQuestions\Twice Match\bin\Debug\net6.0\Twice Match.pdb
+C:\Users\249214\source\repos\CodingQuestions\Twice Match\obj\Debug\net6.0\Twice Match.csproj.AssemblyReference.cache
+C:\Users\249214\source\repos\CodingQuestions\Twice Match\obj\Debug\net6.0\Twice Match.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249214\source\repos\CodingQuestions\Twice Match\obj\Debug\net6.0\Twice Match.AssemblyInfoInputs.cache
+C:\Users\249214\source\repos\CodingQuestions\Twice Match\obj\Debug\net6.0\Twice Match.AssemblyInfo.cs
+C:\Users\249214\source\repos\CodingQuestions\Twice Match\obj\Debug\net6.0\Twice Match.csproj.CoreCompileInputs.cache
+C:\Users\249214\source\repos\CodingQuestions\Twice Match\obj\Debug\net6.0\Twice Match.dll
+C:\Users\249214\source\repos\CodingQuestions\Twice Match\obj\Debug\net6.0\refint\Twice Match.dll
+C:\Users\249214\source\repos\CodingQuestions\Twice Match\obj\Debug\net6.0\Twice Match.pdb
+C:\Users\249214\source\repos\CodingQuestions\Twice Match\obj\Debug\net6.0\Twice Match.genruntimeconfig.cache
+C:\Users\249214\source\repos\CodingQuestions\Twice Match\obj\Debug\net6.0\ref\Twice Match.dll

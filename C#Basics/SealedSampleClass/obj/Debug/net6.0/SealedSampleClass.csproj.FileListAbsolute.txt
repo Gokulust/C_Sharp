@@ -1,0 +1,15 @@
+C:\Users\249214\source\repos\C#Basics\SealedSampleClass\obj\Debug\net6.0\SealedSampleClass.csproj.AssemblyReference.cache
+C:\Users\249214\source\repos\C#Basics\SealedSampleClass\obj\Debug\net6.0\SealedSampleClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249214\source\repos\C#Basics\SealedSampleClass\obj\Debug\net6.0\SealedSampleClass.AssemblyInfoInputs.cache
+C:\Users\249214\source\repos\C#Basics\SealedSampleClass\obj\Debug\net6.0\SealedSampleClass.AssemblyInfo.cs
+C:\Users\249214\source\repos\C#Basics\SealedSampleClass\obj\Debug\net6.0\SealedSampleClass.csproj.CoreCompileInputs.cache
+C:\Users\249214\source\repos\C#Basics\SealedSampleClass\bin\Debug\net6.0\SealedSampleClass.exe
+C:\Users\249214\source\repos\C#Basics\SealedSampleClass\bin\Debug\net6.0\SealedSampleClass.deps.json
+C:\Users\249214\source\repos\C#Basics\SealedSampleClass\bin\Debug\net6.0\SealedSampleClass.runtimeconfig.json
+C:\Users\249214\source\repos\C#Basics\SealedSampleClass\bin\Debug\net6.0\SealedSampleClass.dll
+C:\Users\249214\source\repos\C#Basics\SealedSampleClass\bin\Debug\net6.0\SealedSampleClass.pdb
+C:\Users\249214\source\repos\C#Basics\SealedSampleClass\obj\Debug\net6.0\SealedSampleClass.dll
+C:\Users\249214\source\repos\C#Basics\SealedSampleClass\obj\Debug\net6.0\refint\SealedSampleClass.dll
+C:\Users\249214\source\repos\C#Basics\SealedSampleClass\obj\Debug\net6.0\SealedSampleClass.pdb
+C:\Users\249214\source\repos\C#Basics\SealedSampleClass\obj\Debug\net6.0\SealedSampleClass.genruntimeconfig.cache
+C:\Users\249214\source\repos\C#Basics\SealedSampleClass\obj\Debug\net6.0\ref\SealedSampleClass.dll

@@ -1,0 +1,15 @@
+C:\Users\249214\source\repos\C#Basics\InterfaceWithSameFunctions\bin\Debug\net6.0\InterfaceWithSameFunctions.exe
+C:\Users\249214\source\repos\C#Basics\InterfaceWithSameFunctions\bin\Debug\net6.0\InterfaceWithSameFunctions.deps.json
+C:\Users\249214\source\repos\C#Basics\InterfaceWithSameFunctions\bin\Debug\net6.0\InterfaceWithSameFunctions.runtimeconfig.json
+C:\Users\249214\source\repos\C#Basics\InterfaceWithSameFunctions\bin\Debug\net6.0\InterfaceWithSameFunctions.dll
+C:\Users\249214\source\repos\C#Basics\InterfaceWithSameFunctions\bin\Debug\net6.0\InterfaceWithSameFunctions.pdb
+C:\Users\249214\source\repos\C#Basics\InterfaceWithSameFunctions\obj\Debug\net6.0\InterfaceWithSameFunctions.csproj.AssemblyReference.cache
+C:\Users\249214\source\repos\C#Basics\InterfaceWithSameFunctions\obj\Debug\net6.0\InterfaceWithSameFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249214\source\repos\C#Basics\InterfaceWithSameFunctions\obj\Debug\net6.0\InterfaceWithSameFunctions.AssemblyInfoInputs.cache
+C:\Users\249214\source\repos\C#Basics\InterfaceWithSameFunctions\obj\Debug\net6.0\InterfaceWithSameFunctions.AssemblyInfo.cs
+C:\Users\249214\source\repos\C#Basics\InterfaceWithSameFunctions\obj\Debug\net6.0\InterfaceWithSameFunctions.csproj.CoreCompileInputs.cache
+C:\Users\249214\source\repos\C#Basics\InterfaceWithSameFunctions\obj\Debug\net6.0\InterfaceWithSameFunctions.dll
+C:\Users\249214\source\repos\C#Basics\InterfaceWithSameFunctions\obj\Debug\net6.0\refint\InterfaceWithSameFunctions.dll
+C:\Users\249214\source\repos\C#Basics\InterfaceWithSameFunctions\obj\Debug\net6.0\InterfaceWithSameFunctions.pdb
+C:\Users\249214\source\repos\C#Basics\InterfaceWithSameFunctions\obj\Debug\net6.0\InterfaceWithSameFunctions.genruntimeconfig.cache
+C:\Users\249214\source\repos\C#Basics\InterfaceWithSameFunctions\obj\Debug\net6.0\ref\InterfaceWithSameFunctions.dll

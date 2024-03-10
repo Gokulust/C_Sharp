@@ -1,0 +1,15 @@
+C:\Users\249214\source\repos\CodingQuestions\MostSpecialNumber\bin\Debug\net6.0\MostSpecialNumber.exe
+C:\Users\249214\source\repos\CodingQuestions\MostSpecialNumber\bin\Debug\net6.0\MostSpecialNumber.deps.json
+C:\Users\249214\source\repos\CodingQuestions\MostSpecialNumber\bin\Debug\net6.0\MostSpecialNumber.runtimeconfig.json
+C:\Users\249214\source\repos\CodingQuestions\MostSpecialNumber\bin\Debug\net6.0\MostSpecialNumber.dll
+C:\Users\249214\source\repos\CodingQuestions\MostSpecialNumber\bin\Debug\net6.0\MostSpecialNumber.pdb
+C:\Users\249214\source\repos\CodingQuestions\MostSpecialNumber\obj\Debug\net6.0\MostSpecialNumber.csproj.AssemblyReference.cache
+C:\Users\249214\source\repos\CodingQuestions\MostSpecialNumber\obj\Debug\net6.0\MostSpecialNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249214\source\repos\CodingQuestions\MostSpecialNumber\obj\Debug\net6.0\MostSpecialNumber.AssemblyInfoInputs.cache
+C:\Users\249214\source\repos\CodingQuestions\MostSpecialNumber\obj\Debug\net6.0\MostSpecialNumber.AssemblyInfo.cs
+C:\Users\249214\source\repos\CodingQuestions\MostSpecialNumber\obj\Debug\net6.0\MostSpecialNumber.csproj.CoreCompileInputs.cache
+C:\Users\249214\source\repos\CodingQuestions\MostSpecialNumber\obj\Debug\net6.0\MostSpecialNumber.dll
+C:\Users\249214\source\repos\CodingQuestions\MostSpecialNumber\obj\Debug\net6.0\refint\MostSpecialNumber.dll
+C:\Users\249214\source\repos\CodingQuestions\MostSpecialNumber\obj\Debug\net6.0\MostSpecialNumber.pdb
+C:\Users\249214\source\repos\CodingQuestions\MostSpecialNumber\obj\Debug\net6.0\MostSpecialNumber.genruntimeconfig.cache
+C:\Users\249214\source\repos\CodingQuestions\MostSpecialNumber\obj\Debug\net6.0\ref\MostSpecialNumber.dll

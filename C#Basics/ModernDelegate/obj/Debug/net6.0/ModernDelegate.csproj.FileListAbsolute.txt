@@ -1,0 +1,15 @@
+C:\Users\249214\source\repos\C#Basics\ModernDelegate\bin\Debug\net6.0\ModernDelegate.exe
+C:\Users\249214\source\repos\C#Basics\ModernDelegate\bin\Debug\net6.0\ModernDelegate.deps.json
+C:\Users\249214\source\repos\C#Basics\ModernDelegate\bin\Debug\net6.0\ModernDelegate.runtimeconfig.json
+C:\Users\249214\source\repos\C#Basics\ModernDelegate\bin\Debug\net6.0\ModernDelegate.dll
+C:\Users\249214\source\repos\C#Basics\ModernDelegate\bin\Debug\net6.0\ModernDelegate.pdb
+C:\Users\249214\source\repos\C#Basics\ModernDelegate\obj\Debug\net6.0\ModernDelegate.csproj.AssemblyReference.cache
+C:\Users\249214\source\repos\C#Basics\ModernDelegate\obj\Debug\net6.0\ModernDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249214\source\repos\C#Basics\ModernDelegate\obj\Debug\net6.0\ModernDelegate.AssemblyInfoInputs.cache
+C:\Users\249214\source\repos\C#Basics\ModernDelegate\obj\Debug\net6.0\ModernDelegate.AssemblyInfo.cs
+C:\Users\249214\source\repos\C#Basics\ModernDelegate\obj\Debug\net6.0\ModernDelegate.csproj.CoreCompileInputs.cache
+C:\Users\249214\source\repos\C#Basics\ModernDelegate\obj\Debug\net6.0\ModernDelegate.dll
+C:\Users\249214\source\repos\C#Basics\ModernDelegate\obj\Debug\net6.0\refint\ModernDelegate.dll
+C:\Users\249214\source\repos\C#Basics\ModernDelegate\obj\Debug\net6.0\ModernDelegate.pdb
+C:\Users\249214\source\repos\C#Basics\ModernDelegate\obj\Debug\net6.0\ModernDelegate.genruntimeconfig.cache
+C:\Users\249214\source\repos\C#Basics\ModernDelegate\obj\Debug\net6.0\ref\ModernDelegate.dll

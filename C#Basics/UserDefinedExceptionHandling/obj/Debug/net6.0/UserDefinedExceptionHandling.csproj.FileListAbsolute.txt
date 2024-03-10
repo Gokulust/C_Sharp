@@ -1,0 +1,15 @@
+C:\Users\249214\source\repos\C#Basics\UserDefinedExceptionHandling\bin\Debug\net6.0\UserDefinedExceptionHandling.exe
+C:\Users\249214\source\repos\C#Basics\UserDefinedExceptionHandling\bin\Debug\net6.0\UserDefinedExceptionHandling.deps.json
+C:\Users\249214\source\repos\C#Basics\UserDefinedExceptionHandling\bin\Debug\net6.0\UserDefinedExceptionHandling.runtimeconfig.json
+C:\Users\249214\source\repos\C#Basics\UserDefinedExceptionHandling\bin\Debug\net6.0\UserDefinedExceptionHandling.dll
+C:\Users\249214\source\repos\C#Basics\UserDefinedExceptionHandling\bin\Debug\net6.0\UserDefinedExceptionHandling.pdb
+C:\Users\249214\source\repos\C#Basics\UserDefinedExceptionHandling\obj\Debug\net6.0\UserDefinedExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\249214\source\repos\C#Basics\UserDefinedExceptionHandling\obj\Debug\net6.0\UserDefinedExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249214\source\repos\C#Basics\UserDefinedExceptionHandling\obj\Debug\net6.0\UserDefinedExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\249214\source\repos\C#Basics\UserDefinedExceptionHandling\obj\Debug\net6.0\UserDefinedExceptionHandling.AssemblyInfo.cs
+C:\Users\249214\source\repos\C#Basics\UserDefinedExceptionHandling\obj\Debug\net6.0\UserDefinedExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\249214\source\repos\C#Basics\UserDefinedExceptionHandling\obj\Debug\net6.0\UserDefinedExceptionHandling.dll
+C:\Users\249214\source\repos\C#Basics\UserDefinedExceptionHandling\obj\Debug\net6.0\refint\UserDefinedExceptionHandling.dll
+C:\Users\249214\source\repos\C#Basics\UserDefinedExceptionHandling\obj\Debug\net6.0\UserDefinedExceptionHandling.pdb
+C:\Users\249214\source\repos\C#Basics\UserDefinedExceptionHandling\obj\Debug\net6.0\UserDefinedExceptionHandling.genruntimeconfig.cache
+C:\Users\249214\source\repos\C#Basics\UserDefinedExceptionHandling\obj\Debug\net6.0\ref\UserDefinedExceptionHandling.dll

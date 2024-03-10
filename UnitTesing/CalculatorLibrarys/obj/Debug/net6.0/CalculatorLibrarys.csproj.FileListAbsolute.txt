@@ -1,0 +1,12 @@
+C:\Users\249214\source\repos\UnitTesing\CalculatorLibrarys\bin\Debug\net6.0\CalculatorLibrarys.deps.json
+C:\Users\249214\source\repos\UnitTesing\CalculatorLibrarys\bin\Debug\net6.0\CalculatorLibrarys.dll
+C:\Users\249214\source\repos\UnitTesing\CalculatorLibrarys\bin\Debug\net6.0\CalculatorLibrarys.pdb
+C:\Users\249214\source\repos\UnitTesing\CalculatorLibrarys\obj\Debug\net6.0\CalculatorLibrarys.csproj.AssemblyReference.cache
+C:\Users\249214\source\repos\UnitTesing\CalculatorLibrarys\obj\Debug\net6.0\CalculatorLibrarys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249214\source\repos\UnitTesing\CalculatorLibrarys\obj\Debug\net6.0\CalculatorLibrarys.AssemblyInfoInputs.cache
+C:\Users\249214\source\repos\UnitTesing\CalculatorLibrarys\obj\Debug\net6.0\CalculatorLibrarys.AssemblyInfo.cs
+C:\Users\249214\source\repos\UnitTesing\CalculatorLibrarys\obj\Debug\net6.0\CalculatorLibrarys.csproj.CoreCompileInputs.cache
+C:\Users\249214\source\repos\UnitTesing\CalculatorLibrarys\obj\Debug\net6.0\CalculatorLibrarys.dll
+C:\Users\249214\source\repos\UnitTesing\CalculatorLibrarys\obj\Debug\net6.0\refint\CalculatorLibrarys.dll
+C:\Users\249214\source\repos\UnitTesing\CalculatorLibrarys\obj\Debug\net6.0\CalculatorLibrarys.pdb
+C:\Users\249214\source\repos\UnitTesing\CalculatorLibrarys\obj\Debug\net6.0\ref\CalculatorLibrarys.dll

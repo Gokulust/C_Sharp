@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assessment_1_Area_Inheritence", "Assessment_1_Area_Inheritence\Assessment_1_Area_Inheritence.csproj", "{2FEEA644-8848-40E0-A32C-F04043CF2DC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assessment_2_Book_Management_System", "Assessment_2_Book_Management_System\Assessment_2_Book_Management_System.csproj", "{8AE01DA3-1ABA-4E43-8057-2A353FBAEE97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FEEA644-8848-40E0-A32C-F04043CF2DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FEEA644-8848-40E0-A32C-F04043CF2DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FEEA644-8848-40E0-A32C-F04043CF2DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FEEA644-8848-40E0-A32C-F04043CF2DC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AE01DA3-1ABA-4E43-8057-2A353FBAEE97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE01DA3-1ABA-4E43-8057-2A353FBAEE97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE01DA3-1ABA-4E43-8057-2A353FBAEE97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE01DA3-1ABA-4E43-8057-2A353FBAEE97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB56E3C6-B2BB-4D82-BABB-958456AF59C4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\249214\source\repos\C#Basics\Enums\bin\Debug\net6.0\Enums.exe
+C:\Users\249214\source\repos\C#Basics\Enums\bin\Debug\net6.0\Enums.deps.json
+C:\Users\249214\source\repos\C#Basics\Enums\bin\Debug\net6.0\Enums.runtimeconfig.json
+C:\Users\249214\source\repos\C#Basics\Enums\bin\Debug\net6.0\Enums.dll
+C:\Users\249214\source\repos\C#Basics\Enums\bin\Debug\net6.0\Enums.pdb
+C:\Users\249214\source\repos\C#Basics\Enums\obj\Debug\net6.0\Enums.csproj.AssemblyReference.cache
+C:\Users\249214\source\repos\C#Basics\Enums\obj\Debug\net6.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249214\source\repos\C#Basics\Enums\obj\Debug\net6.0\Enums.AssemblyInfoInputs.cache
+C:\Users\249214\source\repos\C#Basics\Enums\obj\Debug\net6.0\Enums.AssemblyInfo.cs
+C:\Users\249214\source\repos\C#Basics\Enums\obj\Debug\net6.0\Enums.csproj.CoreCompileInputs.cache
+C:\Users\249214\source\repos\C#Basics\Enums\obj\Debug\net6.0\Enums.dll
+C:\Users\249214\source\repos\C#Basics\Enums\obj\Debug\net6.0\refint\Enums.dll
+C:\Users\249214\source\repos\C#Basics\Enums\obj\Debug\net6.0\Enums.pdb
+C:\Users\249214\source\repos\C#Basics\Enums\obj\Debug\net6.0\Enums.genruntimeconfig.cache
+C:\Users\249214\source\repos\C#Basics\Enums\obj\Debug\net6.0\ref\Enums.dll

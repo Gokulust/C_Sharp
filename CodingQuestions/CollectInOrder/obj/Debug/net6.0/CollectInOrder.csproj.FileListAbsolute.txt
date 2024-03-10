@@ -1,0 +1,15 @@
+C:\Users\249214\source\repos\CodingQuestions\CollectInOrder\bin\Debug\net6.0\CollectInOrder.exe
+C:\Users\249214\source\repos\CodingQuestions\CollectInOrder\bin\Debug\net6.0\CollectInOrder.deps.json
+C:\Users\249214\source\repos\CodingQuestions\CollectInOrder\bin\Debug\net6.0\CollectInOrder.runtimeconfig.json
+C:\Users\249214\source\repos\CodingQuestions\CollectInOrder\bin\Debug\net6.0\CollectInOrder.dll
+C:\Users\249214\source\repos\CodingQuestions\CollectInOrder\bin\Debug\net6.0\CollectInOrder.pdb
+C:\Users\249214\source\repos\CodingQuestions\CollectInOrder\obj\Debug\net6.0\CollectInOrder.csproj.AssemblyReference.cache
+C:\Users\249214\source\repos\CodingQuestions\CollectInOrder\obj\Debug\net6.0\CollectInOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249214\source\repos\CodingQuestions\CollectInOrder\obj\Debug\net6.0\CollectInOrder.AssemblyInfoInputs.cache
+C:\Users\249214\source\repos\CodingQuestions\CollectInOrder\obj\Debug\net6.0\CollectInOrder.AssemblyInfo.cs
+C:\Users\249214\source\repos\CodingQuestions\CollectInOrder\obj\Debug\net6.0\CollectInOrder.csproj.CoreCompileInputs.cache
+C:\Users\249214\source\repos\CodingQuestions\CollectInOrder\obj\Debug\net6.0\CollectInOrder.dll
+C:\Users\249214\source\repos\CodingQuestions\CollectInOrder\obj\Debug\net6.0\refint\CollectInOrder.dll
+C:\Users\249214\source\repos\CodingQuestions\CollectInOrder\obj\Debug\net6.0\CollectInOrder.pdb
+C:\Users\249214\source\repos\CodingQuestions\CollectInOrder\obj\Debug\net6.0\CollectInOrder.genruntimeconfig.cache
+C:\Users\249214\source\repos\CodingQuestions\CollectInOrder\obj\Debug\net6.0\ref\CollectInOrder.dll

@@ -1,0 +1,15 @@
+C:\Users\249214\source\repos\C#Basics\StringAndStringBuilder\bin\Debug\net6.0\StringAndStringBuilder.exe
+C:\Users\249214\source\repos\C#Basics\StringAndStringBuilder\bin\Debug\net6.0\StringAndStringBuilder.deps.json
+C:\Users\249214\source\repos\C#Basics\StringAndStringBuilder\bin\Debug\net6.0\StringAndStringBuilder.runtimeconfig.json
+C:\Users\249214\source\repos\C#Basics\StringAndStringBuilder\bin\Debug\net6.0\StringAndStringBuilder.dll
+C:\Users\249214\source\repos\C#Basics\StringAndStringBuilder\bin\Debug\net6.0\StringAndStringBuilder.pdb
+C:\Users\249214\source\repos\C#Basics\StringAndStringBuilder\obj\Debug\net6.0\StringAndStringBuilder.csproj.AssemblyReference.cache
+C:\Users\249214\source\repos\C#Basics\StringAndStringBuilder\obj\Debug\net6.0\StringAndStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249214\source\repos\C#Basics\StringAndStringBuilder\obj\Debug\net6.0\StringAndStringBuilder.AssemblyInfoInputs.cache
+C:\Users\249214\source\repos\C#Basics\StringAndStringBuilder\obj\Debug\net6.0\StringAndStringBuilder.AssemblyInfo.cs
+C:\Users\249214\source\repos\C#Basics\StringAndStringBuilder\obj\Debug\net6.0\StringAndStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\249214\source\repos\C#Basics\StringAndStringBuilder\obj\Debug\net6.0\StringAndStringBuilder.dll
+C:\Users\249214\source\repos\C#Basics\StringAndStringBuilder\obj\Debug\net6.0\refint\StringAndStringBuilder.dll
+C:\Users\249214\source\repos\C#Basics\StringAndStringBuilder\obj\Debug\net6.0\StringAndStringBuilder.pdb
+C:\Users\249214\source\repos\C#Basics\StringAndStringBuilder\obj\Debug\net6.0\StringAndStringBuilder.genruntimeconfig.cache
+C:\Users\249214\source\repos\C#Basics\StringAndStringBuilder\obj\Debug\net6.0\ref\StringAndStringBuilder.dll

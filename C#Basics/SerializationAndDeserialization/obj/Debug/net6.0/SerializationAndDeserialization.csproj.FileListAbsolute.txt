@@ -1,0 +1,16 @@
+C:\Users\249214\source\repos\C#Basics\SerializationAndDeserialization\bin\Debug\net6.0\SerializationAndDeserialization.exe
+C:\Users\249214\source\repos\C#Basics\SerializationAndDeserialization\bin\Debug\net6.0\Serialize.txt
+C:\Users\249214\source\repos\C#Basics\SerializationAndDeserialization\bin\Debug\net6.0\SerializationAndDeserialization.deps.json
+C:\Users\249214\source\repos\C#Basics\SerializationAndDeserialization\bin\Debug\net6.0\SerializationAndDeserialization.runtimeconfig.json
+C:\Users\249214\source\repos\C#Basics\SerializationAndDeserialization\bin\Debug\net6.0\SerializationAndDeserialization.dll
+C:\Users\249214\source\repos\C#Basics\SerializationAndDeserialization\bin\Debug\net6.0\SerializationAndDeserialization.pdb
+C:\Users\249214\source\repos\C#Basics\SerializationAndDeserialization\obj\Debug\net6.0\SerializationAndDeserialization.csproj.AssemblyReference.cache
+C:\Users\249214\source\repos\C#Basics\SerializationAndDeserialization\obj\Debug\net6.0\SerializationAndDeserialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249214\source\repos\C#Basics\SerializationAndDeserialization\obj\Debug\net6.0\SerializationAndDeserialization.AssemblyInfoInputs.cache
+C:\Users\249214\source\repos\C#Basics\SerializationAndDeserialization\obj\Debug\net6.0\SerializationAndDeserialization.AssemblyInfo.cs
+C:\Users\249214\source\repos\C#Basics\SerializationAndDeserialization\obj\Debug\net6.0\SerializationAndDeserialization.csproj.CoreCompileInputs.cache
+C:\Users\249214\source\repos\C#Basics\SerializationAndDeserialization\obj\Debug\net6.0\SerializationAndDeserialization.dll
+C:\Users\249214\source\repos\C#Basics\SerializationAndDeserialization\obj\Debug\net6.0\refint\SerializationAndDeserialization.dll
+C:\Users\249214\source\repos\C#Basics\SerializationAndDeserialization\obj\Debug\net6.0\SerializationAndDeserialization.pdb
+C:\Users\249214\source\repos\C#Basics\SerializationAndDeserialization\obj\Debug\net6.0\SerializationAndDeserialization.genruntimeconfig.cache
+C:\Users\249214\source\repos\C#Basics\SerializationAndDeserialization\obj\Debug\net6.0\ref\SerializationAndDeserialization.dll

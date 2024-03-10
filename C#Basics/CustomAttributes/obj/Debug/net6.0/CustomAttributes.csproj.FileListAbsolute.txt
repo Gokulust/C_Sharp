@@ -1,0 +1,15 @@
+C:\Users\249214\source\repos\C#Basics\CustomAttributes\bin\Debug\net6.0\CustomAttributes.exe
+C:\Users\249214\source\repos\C#Basics\CustomAttributes\bin\Debug\net6.0\CustomAttributes.deps.json
+C:\Users\249214\source\repos\C#Basics\CustomAttributes\bin\Debug\net6.0\CustomAttributes.runtimeconfig.json
+C:\Users\249214\source\repos\C#Basics\CustomAttributes\bin\Debug\net6.0\CustomAttributes.dll
+C:\Users\249214\source\repos\C#Basics\CustomAttributes\bin\Debug\net6.0\CustomAttributes.pdb
+C:\Users\249214\source\repos\C#Basics\CustomAttributes\obj\Debug\net6.0\CustomAttributes.csproj.AssemblyReference.cache
+C:\Users\249214\source\repos\C#Basics\CustomAttributes\obj\Debug\net6.0\CustomAttributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249214\source\repos\C#Basics\CustomAttributes\obj\Debug\net6.0\CustomAttributes.AssemblyInfoInputs.cache
+C:\Users\249214\source\repos\C#Basics\CustomAttributes\obj\Debug\net6.0\CustomAttributes.AssemblyInfo.cs
+C:\Users\249214\source\repos\C#Basics\CustomAttributes\obj\Debug\net6.0\CustomAttributes.csproj.CoreCompileInputs.cache
+C:\Users\249214\source\repos\C#Basics\CustomAttributes\obj\Debug\net6.0\CustomAttributes.dll
+C:\Users\249214\source\repos\C#Basics\CustomAttributes\obj\Debug\net6.0\refint\CustomAttributes.dll
+C:\Users\249214\source\repos\C#Basics\CustomAttributes\obj\Debug\net6.0\CustomAttributes.pdb
+C:\Users\249214\source\repos\C#Basics\CustomAttributes\obj\Debug\net6.0\CustomAttributes.genruntimeconfig.cache
+C:\Users\249214\source\repos\C#Basics\CustomAttributes\obj\Debug\net6.0\ref\CustomAttributes.dll
